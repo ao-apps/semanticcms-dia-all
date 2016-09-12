@@ -38,6 +38,7 @@ along with semanticcms-dia-all.  If not, see <http://www.gnu.org/licenses />.
 	<name>SemanticCMS Dia All</name>
 	<url>https://semanticcms.com/dia/all/</url>
 	<description>Convenience POM to include most Java API for embedding Dia-based diagrams in web pages features, not including documentation or examples.</description>
+	<inceptionYear>2016</inceptionYear>
 
 	<scm>
 		<connection>scm:git:git://github.com/aoindustries/semanticcms-dia-all.git</connection>
