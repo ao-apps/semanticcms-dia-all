@@ -3,6 +3,7 @@ Convenience POM to include most [SemanticCMS Dia](https://semanticcms.com/dia/) 
 
 ## Project Links
 * [Project Home](https://semanticcms.com/dia/all/)
+* [Changelog](https://semanticcms.com/dia/all/changelog)
 * [Maven Central Repository](https://search.maven.org/#search%7Cgav%7C1%7Cg:%22com.semanticcms%22%20AND%20a:%22semanticcms-dia-all%22)
 * [GitHub](https://github.com/aoindustries/semanticcms-dia-all)
 
