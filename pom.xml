@@ -36,12 +36,11 @@ along with semanticcms-dia-all.  If not, see <http://www.gnu.org/licenses />.
 	<packaging>pom</packaging>
 
 	<properties>
-		<bookPath>/dia/all</bookPath>
 		<shortTitle>All</shortTitle>
 	</properties>
 
 	<name>SemanticCMS Dia All</name>
-	<url>https://semanticcms.com${bookPath}/</url><!-- Can't inherit due to multi-module -->
+	<url>https://semanticcms.com/dia/all/</url>
 	<description>Convenience POM to include most SemanticCMS Dia features, not including documentation or examples.</description>
 	<inceptionYear>2016</inceptionYear>
 
