@@ -34,6 +34,7 @@ Convenience POM to include most [SemanticCMS Dia](https://semanticcms.com/dia/) 
 
 ## Modules Included
 * [SemanticCMS Dia Model](https://semanticcms.com/dia/model/)
+* [SemanticCMS Dia Renderer HTML](https://semanticcms.com/dia/renderer/html/)
 * [SemanticCMS Dia Servlet](https://semanticcms.com/dia/servlet/)
 * [SemanticCMS Dia Style](https://semanticcms.com/dia/style/)
 * [SemanticCMS Dia Taglib](https://semanticcms.com/dia/taglib/)
