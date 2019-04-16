@@ -32,7 +32,7 @@ along with semanticcms-dia-all.  If not, see <http://www.gnu.org/licenses />.
 	<groupId>com.semanticcms</groupId><artifactId>semanticcms-dia-all</artifactId><version>1.2.4-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>SemanticCMS 1 Dia All</name>
+	<name>SemanticCMS Dia All</name>
 	<url>https://semanticcms.com/dia/all/</url>
 	<description>Convenience POM to include most SemanticCMS Dia features, not including documentation or examples.</description>
 	<inceptionYear>2016</inceptionYear>
