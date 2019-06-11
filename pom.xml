@@ -47,7 +47,6 @@ along with semanticcms-dia-all.  If not, see <http://www.gnu.org/licenses />.
 
 	<dependencyManagement>
 		<dependencies>
-			<!-- TODO: semanticcms-dia-bom -->
 			<dependency>
 				<groupId>com.semanticcms</groupId><artifactId>semanticcms-dia-model</artifactId><version>1.4.4-SNAPSHOT</version>
 			</dependency>
