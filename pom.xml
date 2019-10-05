@@ -48,7 +48,7 @@ along with semanticcms-dia-all.  If not, see <http://www.gnu.org/licenses />.
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
-				<groupId>com.semanticcms</groupId><artifactId>semanticcms-dia-model</artifactId><version>1.4.5-SNAPSHOT</version>
+				<groupId>com.semanticcms</groupId><artifactId>semanticcms-dia-model</artifactId><version>1.4.5-POST-SNAPSHOT</version>
 			</dependency>
 			<dependency>
 				<groupId>com.semanticcms</groupId><artifactId>semanticcms-dia-servlet</artifactId><version>1.6.0-SNAPSHOT</version>
