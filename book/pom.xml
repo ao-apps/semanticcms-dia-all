@@ -35,8 +35,6 @@ along with semanticcms-dia-all.  If not, see <http://www.gnu.org/licenses />.
 	<properties>
 		<!-- These values are copied from the project being documented -->
 		<documented.artifactId>semanticcms-dia-all</documented.artifactId>
-		<documented.javaVersion>1.8</documented.javaVersion>
-		<documented.javac.link.javaApi>${javac.link.javaApi.jdk8}</documented.javac.link.javaApi>
 		<documented.name>SemanticCMS Dia All²</documented.name>
 		<documented.shortTitle>All</documented.shortTitle>
 		<documented.description>Convenience POM to include most SemanticCMS Dia features, not including documentation or examples.</documented.description>
