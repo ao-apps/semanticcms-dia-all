@@ -1,6 +1,6 @@
 /*
  * semanticcms-dia-all - Convenience POM to include most SemanticCMS Dia features, not including documentation or examples.
- * Copyright (C) 2021  AO Industries, Inc.
+ * Copyright (C) 2021, 2022  AO Industries, Inc.
  *     support@aoindustries.com
  *     7262 Bull Pen Cir
  *     Mobile, AL 36695
@@ -21,8 +21,8 @@
  * along with semanticcms-dia-all.  If not, see <https://www.gnu.org/licenses/>.
  */
 module com.semanticcms.dia.all {
-	// Direct
-	requires transitive com.semanticcms.dia.model; // <groupId>com.semanticcms</groupId><artifactId>semanticcms-dia-model</artifactId>
-	requires transitive com.semanticcms.dia.servlet; // <groupId>com.semanticcms</groupId><artifactId>semanticcms-dia-servlet</artifactId>
-	requires transitive com.semanticcms.dia.taglib; // <groupId>com.semanticcms</groupId><artifactId>semanticcms-dia-taglib</artifactId>
+  // Direct
+  requires transitive com.semanticcms.dia.model; // <groupId>com.semanticcms</groupId><artifactId>semanticcms-dia-model</artifactId>
+  requires transitive com.semanticcms.dia.servlet; // <groupId>com.semanticcms</groupId><artifactId>semanticcms-dia-servlet</artifactId>
+  requires transitive com.semanticcms.dia.taglib; // <groupId>com.semanticcms</groupId><artifactId>semanticcms-dia-taglib</artifactId>
 }
