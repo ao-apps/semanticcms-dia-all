@@ -25,4 +25,4 @@ module com.semanticcms.dia.all {
   requires transitive com.semanticcms.dia.model; // <groupId>com.semanticcms</groupId><artifactId>semanticcms-dia-model</artifactId>
   requires transitive com.semanticcms.dia.servlet; // <groupId>com.semanticcms</groupId><artifactId>semanticcms-dia-servlet</artifactId>
   requires transitive com.semanticcms.dia.taglib; // <groupId>com.semanticcms</groupId><artifactId>semanticcms-dia-taglib</artifactId>
-} // TODO: Avoiding rewrite-maven-plugin-4.22.2 truncation
+}
