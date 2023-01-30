@@ -112,9 +112,10 @@ along with semanticcms-dia-all.  If not, see <https://www.gnu.org/licenses/>.
         <groupId>org.apache.maven.plugins</groupId><artifactId>maven-dependency-plugin</artifactId>
         <configuration>
           <usedDependencies>
-            <!-- Direct -->
-            <dependency>com.semanticcms:semanticcms-dia-servlet</dependency><!-- Required for module-info.java -->
-            <dependency>com.semanticcms:semanticcms-dia-taglib</dependency><!-- Required for module-info.java -->
+            <!-- Required for module-info.java -->
+            <dependency>com.semanticcms:semanticcms-dia-model</dependency>
+            <dependency>com.semanticcms:semanticcms-dia-servlet</dependency>
+            <dependency>com.semanticcms:semanticcms-dia-taglib</dependency>
             <!-- Runtime Direct -->
             <dependency>com.semanticcms:semanticcms-dia-style</dependency>
             <dependency>com.semanticcms:semanticcms-dia-view</dependency>
