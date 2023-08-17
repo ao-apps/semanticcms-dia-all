@@ -30,7 +30,7 @@ along with semanticcms-dia-all.  If not, see <https://www.gnu.org/licenses/>.
   </parent>
 
   <groupId>com.semanticcms</groupId><artifactId>semanticcms-dia-all</artifactId><version>1.7.3-POST-SNAPSHOT</version>
-  <packaging>bundle</packaging>
+  <packaging>jar</packaging>
 
   <properties>
     <module.name>com.semanticcms.dia.all</module.name>
